@@ -1,0 +1,25 @@
+[
+	{	"uname" : "科比",
+		"upwd" : "666666",
+		"userImg" : "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1764915970,177633720&fm=26&gp=0.jpg",
+		"jizhibi" :0,
+		"coupon" : 0,
+		"JYA" : 0,
+		"nickName" : "巅峰科比",
+		"Name" : "科比",
+		"gender" : "男",
+		"phone" : 666666
+	},
+	{	"uname" : "铁科比",
+		"upwd" : "111111",
+		"userImg" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1573272541570&di=8019c20f34bdf5f718c55f93cdf75290&imgtype=0&src=http%3A%2F%2Fwww.jf258.com%2Fuploads%2F2014-08-19%2F041320210.jpg",
+		"balance" : 999999,
+		"jizhibi" :0,
+		"coupon" : 0,
+		"JYA" : 0,
+		"nickName" : "巅峰科比",
+		"Name" : "铁科比",
+		"gender" : "男",
+		"phone" : 666666
+	}
+]
